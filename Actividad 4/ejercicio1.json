@@ -1,0 +1,87 @@
+{
+    "estudiantes": [
+      {
+        "id": 1,
+        "nombre": "Juan Pérez",
+        "edad": 16,
+        "asignaturas": [
+          {
+            "id_asignatura": 101,
+            "nombre": "Matemáticas",
+            "calificacion": 9.5
+          },
+          {
+            "id_asignatura": 102,
+            "nombre": "Física",
+            "calificacion": 8.0
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "nombre": "María Gómez",
+        "edad": 17,
+        "asignaturas": [
+          {
+            "id_asignatura": 101,
+            "nombre": "Matemáticas",
+            "calificacion": 7.5
+          },
+          {
+            "id_asignatura": 103,
+            "nombre": "Química",
+            "calificacion": 9.0
+          }
+        ]
+      }
+    ],
+    "profesores": [
+      {
+        "id": 1,
+        "nombre": "Dr. Roberto López",
+        "edad": 45,
+        "asignaturas": [
+          {
+            "id_asignatura": 101,
+            "nombre": "Matemáticas",
+            "creditos": 4
+          },
+          {
+            "id_asignatura": 102,
+            "nombre": "Física",
+            "creditos": 3
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "nombre": "Lic. Laura Sánchez",
+        "edad": 38,
+        "asignaturas": [
+          {
+            "id_asignatura": 103,
+            "nombre": "Química",
+            "creditos": 3
+          }
+        ]
+      }
+    ],
+    "asignaturas": [
+      {
+        "id": 101,
+        "nombre": "Matemáticas",
+        "creditos": 4
+      },
+      {
+        "id": 102,
+        "nombre": "Física",
+        "creditos": 3
+      },
+      {
+        "id": 103,
+        "nombre": "Química",
+        "creditos": 3
+      }
+    ]
+  }
+  
